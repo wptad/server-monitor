@@ -1,0 +1,4 @@
+exports = {
+	WEIXIN_TOKEN:'TOKEN',
+	PORT:9500
+}
